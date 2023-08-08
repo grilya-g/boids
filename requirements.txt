@@ -1,0 +1,6 @@
+ffmpeg-python==0.2.0
+numba~=0.55.0
+numpy~=1.21.5
+pyglet==1.5.21
+scipy==1.7.3
+vispy==0.9.4
